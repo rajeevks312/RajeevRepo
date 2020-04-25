@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/rajeevks312/ng4-complete-guide.git
+git add .
+git commit -m "angular2"
+git push -f origin master
+
+
